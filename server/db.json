@@ -1,0 +1,12 @@
+{
+  "Projects": [{
+    "name": "Grow Trees",
+    "desc": "We need helping grow trees in Kenmore"
+  }, {
+    "name": "Recycle Kenmore",
+    "desc": "We need help going around and cleaning Kenmore"
+  }, {
+    "name": "Locate your tax money",
+    "desc": "Create an application were tax money is going"
+  }]
+}
