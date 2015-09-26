@@ -9,3 +9,22 @@ project9 aims to be the platform where:
   + Also, to attract more and more people as the city deems necessary.
 
 project9, the crowd-sourcing freelance platform for city to improve itself.
+
+# Team Members
+
+Our team is comprised of:
+
+  @LGVichy - 99% of the platform.
+  @sanoy - 1% json file.
+
+
+# Technologies, APIs
+
++ Ionic, Cordova, Angular
+
+# Contribute
+
+In order to build and run our app:
+
+  + Have `ionic` up and running
+  + `ionic serve -crl`
