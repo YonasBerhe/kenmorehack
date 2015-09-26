@@ -9309,6 +9309,8 @@ ion-content {
     -webkit-box-align: center;
     -webkit-box-pack: center;
     display: -webkit-box; }
+  .main .desc {
+    color: #dcdcdc !important; }
   .main .button-round {
     font-size: 1.8em;
     border-radius: 45px;
