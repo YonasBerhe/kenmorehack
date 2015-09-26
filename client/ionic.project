@@ -1,4 +1,12 @@
 {
-  "name": "yonas",
-  "app_id": ""
+  "name": "project9",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
 }
