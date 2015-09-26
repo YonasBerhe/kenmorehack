@@ -23,6 +23,7 @@ angular.module('starter.controllers', [])
   })
   .controller('AccountCtrl', function($scope) {
     $scope.settings = {
-      taskNotification: true
+      taskNotification: true,
+      chatNotification: false,
     };
   });

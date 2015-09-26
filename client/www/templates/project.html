@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<ion-view class="main" hide-nav-bar="true">
+  <ion-content class="padding">
+    <ion-refresher
+    pulling-text="Pull to refresh..."
+    on-refresh="doRefresh()">
+    </ion-refresher>
+
+    <h1 class="title">
+      {{project.name}}
+    </h1>
+
+    <h3 class="desc">
+      {{project.desc}}
+    </h3>
+
+    <a href="#/tab/dash">
+      <button class="button button-outline
+      button-round">
+        OK
+      </button>
+    </a>
+  </ion-content>
+</ion-view>
